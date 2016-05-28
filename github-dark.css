@@ -93,7 +93,7 @@
   .site-header-menu .nav-item:hover,
   .scoped-search .form-control.focus .header-search-scope,
   .markdown-body blockquote a code, .btn-link, a.btn-link, .text-blue {
-    color: /*[[base-color]]*/ #4183C4 !important;
+    color: /*[[base-color]]*/ #79C5FF !important;
   }
   /* Base color panel */
   .btn:active, option:hover, .listings-layout .nav li a:hover, .state-merged,
